@@ -1,0 +1,40 @@
+body{
+  background-color: #d6e2f0;
+  font-family: 'Outfit', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2{
+  color: #1f3251;
+  font-weight: 700;
+}
+
+p{
+  width: 280px;
+  margin: 0 auto 25px;
+}
+
+.qr-container{
+  color: #7b879d;
+  background-color: #ffff;
+  border-radius: 20px;
+  font-weight: 400;
+  margin: 10% auto;
+  padding:15px;
+  width: 300px;
+  text-align: center;
+}
+
+.qr-code{
+  border-radius: 10px;
+  display: block;
+  height: 100%;
+  margin: auto;
+  max-width: 100%;
+}
+
+.attribution{
+  position: relative;
+}
